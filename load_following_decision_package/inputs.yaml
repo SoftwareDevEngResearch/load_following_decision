@@ -42,4 +42,3 @@ max_efficiency: 2
 ab_turn_down_ratio: 3
 
 # Net Metering
-net_metering: True
